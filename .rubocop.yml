@@ -43,3 +43,6 @@ Documentation:
 
 Metrics/AbcSize:
   Max: 25
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
