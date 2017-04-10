@@ -140,7 +140,7 @@ def parse_tags
 end
 
 def build_image
-  show_sub_header 'Building Image'
+  show_sub_header 'Building Image...'
   # Run Bash Script and Capture StrOut, StrErr, and Status
   bash_command = "docker build --force-rm #{@options['extra_args']}#{@args_string} -f #{@options['dockerfile_path']}#{@tags_string} #{@options['build_path']}"
 

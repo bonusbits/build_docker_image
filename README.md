@@ -1,6 +1,6 @@
 # Build Docker Image with Args from YAML
 [![CircleCI](https://circleci.com/gh/bonusbits/build_docker_image.svg?style=shield)](https://circleci.com/gh/bonusbits/build_docker_image)
-[![Join the chat at https://gitter.im/bonusbits/build_docker_image](https://badges.gitter.im/bonusbits/build_docker_image.svg)](https://gitter.im/bonusbits/build_docker_image?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/bonusbits](https://badges.gitter.im/bonusbits/bonusbits.svg)](https://gitter.im/bonusbits?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Purpose
 A Ruby script to build a Docker image from Dockerfile with arguments saved in a YAML file.
